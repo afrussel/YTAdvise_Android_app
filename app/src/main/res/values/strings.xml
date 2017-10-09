@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Your app name</string>
+    <string name="banner_ad_server_list_unit_id">ca-app-pub-7601241876768519/5052499184</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-7601241876768519/8005965582</string>
+    <string name="channel_url">https://www.youtube.com/channel/UCGzYy9oeP0xtYazlsbAGEnw</string>
+
+</resources>

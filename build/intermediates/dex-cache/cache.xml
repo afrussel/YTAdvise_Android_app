@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Faisal UI\YTube\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Faisal UI\YTube\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_af8b24acb0f07a772278a0f7eec733faae1dc807.jar" />
+    </item>
+    <item
+        jar="E:\Faisal UI\YTube\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Faisal UI\YTube\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_85582f7e14ddc8a70bd73a6e8b7834be3b2c8a76.jar" />
+    </item>
+    <item
+        jar="E:\Faisal UI\YTube\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\Faisal UI\YTube\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_6c2c460b208fac41fc50e21c1d3f9b179b6a20fc.jar" />
+    </item>
+    <item
+        jar="D:\SDK_Mita\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Faisal UI\YTube\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_81afde3183a491ef76509fa3c827095bfd8dadad.jar" />
+    </item>
+    <item
+        jar="E:\Faisal UI\YTube\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Faisal UI\YTube\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_60b7e5a37546e4fc6effeed15a817846eeffd2aa.jar" />
+    </item>
+    <item
+        jar="E:\Faisal UI\YTube\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Faisal UI\YTube\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_8427516b400ba6ca341d9df09977847629142c8e.jar" />
+    </item>
+
+</items>
